@@ -1,2 +1,2 @@
 # Blockchain
-Blockchain study
+Blockchain 学习和资料收集
