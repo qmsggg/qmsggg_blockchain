@@ -7,7 +7,7 @@
 
 ## 第三方资源
 
-## 书籍类
+### 书籍类
 
 - 《区块链 技术驱动金融：数字货币与智能合约技术》
 - 《区块链：从数字货币到信用社会》
@@ -16,9 +16,12 @@
 - 《区块链技术指南》
 - 《图说区块链》
 
-## 网站类
+### 网站类
 - [巴比特论坛](http://8btc.com/)
 - [非小号](http://www.feixiaohao.com)
+
+### 区块链面试
+- [区块链工程师面试宝典](https://github.com/ChrisLinn/blockchain-cheatsheet)
 
 ## MY
 [区块链开发之旅](https://github.com/qmsggg/qmsggg_blockchain/tree/master/MyStudyRecoder)
